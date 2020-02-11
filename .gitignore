@@ -5,3 +5,12 @@ tfb
 gitlab.pdf
 .gitignore
 renamer.ipynb
+efficientnet_model.py
+efficientnet_models
+efficientnet_builder.py
+utils.py
+__pycache__
+
+saved_models
+condconv
+effnet_keras_code
