@@ -6,7 +6,7 @@ tfb
 slurm.txt
 .ipynb_checkpoints
 gitlab.pdf
-.gitignore
+adult_copy
 renamer.ipynb
 efficientnet_model.py
 efficientnet_models
